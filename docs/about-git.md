@@ -3,13 +3,21 @@ sidebar_position: 2
 ---
 
 ---
+
 transition: "convex"
 slideNumber: true
 title: "gitとgithubについて"
 ---
 
-
 ## GitとGitHubについて
+
+---
+
+## 注意事項
+
+* このページは元々パワポレイアウトのため、ブログ形式に対応していません
+* パワーポイントのようにページ移動ができるライブラリがある。(Marp)
+* 見てもイマイチわかりづらいのは高等説明ありきのためです。
 
 ---
 
