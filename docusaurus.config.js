@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: '研修資料',
-  tagline: 'Dinosaurs are cool',
+  tagline: '低コストで勉強する為の資料',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/vbr-ykogawa/for-members-document',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,8 +121,12 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
+                label: 'GitHub(docusaurus)',
                 href: 'https://github.com/facebook/docusaurus',
+              },
+              {
+                label: 'GitHub(this site)',
+                href: 'https://github.com/vbr-ykogawa/for-members-document',
               },
             ],
           },
